@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: block;
+    background-color: #333333;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 90px;
+    text-align: center;
+    padding: 20px;
+    position: sticky;
+}
+div{
+    margin: 0;
+}
+#div1{
+    margin-left: 20px;
+    margin-right: 50px;
+    background-color:#FFFFFF ;
+    
+}
+nav{
+width: 93%;
+margin:20px; 
+padding: 30px;
+height: 5rem;
+box-shadow: 5px 1px 10px gray;
+position: sticky;
+}
+label{
+    font-size: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: -50px;
+    
+   
+    
+}
+select{
+    margin: 0px 10px 20px 1.5;
+    width: 90%;
+    height: 3rem;
+    border-radius: 5px;
+}
+.div2{
+    display: block;
+    width: 550px;
+    height: 55rem;
+    
+    box-shadow: 5px 1px 15px gray;
+    background-color:#FFFFFF;
+    padding: 20px;
+    margin-left: 20px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 10px;
+}
+p{
+    font-size:20px;
+}
+button{
+
+    background-color: #D0451A;
+    width: 90%;
+    height: 40px;
+    color: white;
+    border: none;
+    border-radius: 7px;
+}
+
+img{
+    margin: auto;
+    width: 90%;
+    padding: 25px;
+  border-radius:5px; 
+  height: 55%;
+}
+footer{
+
+    display:inline-block;
+    background-color: #333333;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    height:10px;
+   padding: 10;
+    width: 110%;
+    height: 6rem;
+    margin: 0;
+
+   
+
+}
